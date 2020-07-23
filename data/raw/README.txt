@@ -1,6 +1,2 @@
-This is to be updated
-
-EdNet Student Outcome Predictor/ Optimizer
-
-
-
+Raw Data available publicly:
+https://github.com/riiid/ednet
